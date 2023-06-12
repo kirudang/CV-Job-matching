@@ -1,0 +1,6 @@
+gensim version: 4.3.0
+nltk version: 3.7
+numpy version: 1.23.5
+pandas version: 1.5.3
+plotly version: 5.9.0
+PyPDF2 version: 3.0.1
